@@ -21,7 +21,7 @@ RED = "#dc3958"
 ORANGE = "#f79a32"
 YELLOW = "#f06431"
 GREEN = "#889b4a"
-AQUA = "#18401e"
+AQUA = "#088649"
 BLUE = "#8ab1b0"
 PURPLE = "#98676a"
 

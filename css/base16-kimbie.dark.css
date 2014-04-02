@@ -14,7 +14,7 @@
 .syntax .k { color: #98676a } /* Keyword */
 .syntax .l { color: #f79a32 } /* Literal */
 .syntax .n { color: #fbebd4 } /* Name */
-.syntax .o { color: #18401e } /* Operator */
+.syntax .o { color: #088649 } /* Operator */
 .syntax .p { color: #fbebd4 } /* Punctuation */
 .syntax .cm { color: #a57a4c } /* Comment.Multiline */
 .syntax .cp { color: #a57a4c } /* Comment.Preproc */
@@ -26,10 +26,10 @@
 .syntax .gi { color: #889b4a } /* Generic.Inserted */
 .syntax .gp { color: #a57a4c; font-weight: bold } /* Generic.Prompt */
 .syntax .gs { font-weight: bold } /* Generic.Strong */
-.syntax .gu { color: #18401e; font-weight: bold } /* Generic.Subheading */
+.syntax .gu { color: #088649; font-weight: bold } /* Generic.Subheading */
 .syntax .kc { color: #98676a } /* Keyword.Constant */
 .syntax .kd { color: #98676a } /* Keyword.Declaration */
-.syntax .kn { color: #18401e } /* Keyword.Namespace */
+.syntax .kn { color: #088649 } /* Keyword.Namespace */
 .syntax .kp { color: #98676a } /* Keyword.Pseudo */
 .syntax .kr { color: #98676a } /* Keyword.Reserved */
 .syntax .kt { color: #f06431 } /* Keyword.Type */
@@ -40,7 +40,7 @@
 .syntax .nb { color: #fbebd4 } /* Name.Builtin */
 .syntax .nc { color: #f06431 } /* Name.Class */
 .syntax .no { color: #dc3958 } /* Name.Constant */
-.syntax .nd { color: #18401e } /* Name.Decorator */
+.syntax .nd { color: #088649 } /* Name.Decorator */
 .syntax .ni { color: #fbebd4 } /* Name.Entity */
 .syntax .ne { color: #dc3958 } /* Name.Exception */
 .syntax .nf { color: #8ab1b0 } /* Name.Function */
@@ -48,9 +48,9 @@
 .syntax .nn { color: #f06431 } /* Name.Namespace */
 .syntax .nx { color: #8ab1b0 } /* Name.Other */
 .syntax .py { color: #fbebd4 } /* Name.Property */
-.syntax .nt { color: #18401e } /* Name.Tag */
+.syntax .nt { color: #088649 } /* Name.Tag */
 .syntax .nv { color: #dc3958 } /* Name.Variable */
-.syntax .ow { color: #18401e } /* Operator.Word */
+.syntax .ow { color: #088649 } /* Operator.Word */
 .syntax .w { color: #fbebd4 } /* Text.Whitespace */
 .syntax .mf { color: #f79a32 } /* Literal.Number.Float */
 .syntax .mh { color: #f79a32 } /* Literal.Number.Hex */
